@@ -1,0 +1,21 @@
+@media (max-width: 850px){
+    .container{
+        width: 600px;
+    }
+    .cell{
+        width: 270px;
+    }
+}
+
+
+@media (max-width: 640px){
+    .container{
+        width: 300px;
+        flex-direction: column;
+    }
+    .cell{
+        width: 280px;
+    }
+}
+
+
